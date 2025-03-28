@@ -4,5 +4,6 @@
 #pragma once
 
 #include <stdio.h>
+#include "matrix.h"
 
 // TODO: Reference additional headers your program requires here.
